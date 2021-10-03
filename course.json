@@ -1,10 +1,9 @@
-[{"id":1,"name":"Humayun Ahmed","email":"humayun0@vk.com","gender":"Male","image":"https://raihaansharif.com/assn8/jsonimg/2222ed505a94_1.jpeg", "phone":"+52 602 758 8394", "Soldout":"897699"},
-    {"id":2,"name":"Md. Jafor Iqbal","email":"jafor@ctg.com","gender":"Male","image":"https://raihaansharif.com/assn8/jsonimg/2.jpeg", "phone":"+52 602 758 7839", "Soldout":"397697"},
-    {"id":3,"name":"Anisul Haque","email":"anisul@umich.edu","gender":"Male","image":"https://raihaansharif.com/assn8/jsonimg/anisul.jpeg", "phone":"+52 602 758 987", "Soldout":"197696"},
-    {"id":4,"name":"Ahmed Sofa","email":"sofa@is.gd","gender":"Male","image":"https://raihaansharif.com/assn8/jsonimg/ahmedsofa.jpeg","phone":"+52 602 758 7876", "Soldout":"97695"},
-    {"id":5,"name":"Kazi Nazrul","email":"kazi@epa.gov","gender":"Male","image":"https://raihaansharif.com/assn8/jsonimg/kazi.jpeg","phone":"+62 400 384 9362", "Soldout":"997696"},
-    {"id":6,"name":"Emdadul Haq Milon","email":"milon@icio.us","gender":"Male","image":"https://raihaansharif.com/assn8/jsonimg/milon.jpeg","phone":"+86 488 336 1120", "Soldout":"197691"},
-    {"id":7,"name":"Munir Hasan","email":"munir@wp.com","gender":"Male","image":"https://raihaansharif.com/assn8/jsonimg/munirhasan.jpeg","phone":"+66 568 182 0838", "Soldout":"20699"},
-    {"id":8,"name":"Munjerin Shahid","email":"emilsom7@illinois.edu","gender":"Female","image":"http://raihaansharif.com/assn8/jsonimg/munjerin.jpeg","phone":"+86 652 830 6871", "Soldout":"998930"},
-    {"id":9,"name":"Rokib Hasan","email":"gtench8@gravatar.com","gender":"Male","image":"http://raihaansharif.com/assn8/jsonimg/rokib.jpeg","phone":"+86 719 296 3218", "Soldout":"297697"},
-    {"id":10,"name":"Sadat Hasan","email":"sadat@newyorker.com","gender":"Male","image":"http://raihaansharif.com/assn8/jsonimg/sadat.jpeg","phone":"+47 206 169 2056", "Soldout":"232769"}]
+[{"id":1,"name":"Guitar Classes","image":"https://raihaansharif.com/assn9/junk/gtr.jpg", "duration":"3 Months", "price":"5000" },
+    {"id":2,"name":"Bass Classes","image":"https://raihaansharif.com/assn9/junk/bass.jpg", "duration":"3 Months", "price":"5000" },
+    {"id":3,"name":"Piano Classes","image":"https://raihaansharif.com/assn9/junk/pia.jpg", "duration":"3 Months", "price":"5000" },
+    {"id":4,"name":"Violin Classes","image":"https://raihaansharif.com/assn9/junk/vio.jpg", "duration":"3 Months", "price":"5000" },
+    {"id":5,"name":"Flute Classes","image":"https://raihaansharif.com/assn9/junk/flu.jpg", "duration":"3 Months", "price":"5000" },
+    {"id":6,"name":"Harmonium Classes","image":"https://raihaansharif.com/assn9/junk/har.jpg", "duration":"3 Months", "price":"5000" },
+    {"id":7,"name":"Drum Classes","image":"https://raihaansharif.com/assn9/junk/drm.jpg", "duration":"3 Months", "price":"5000" },
+    {"id":8,"name":"Tabla Classes","image":"https://raihaansharif.com/assn9/junk/tab.jpg", "duration":"3 Months", "price":"5000" }]
+

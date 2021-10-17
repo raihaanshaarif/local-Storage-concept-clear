@@ -2,86 +2,86 @@
 
     {
 
-      id: '1',
+      "id": "1",
 
-      image: 'https://i.ibb.co/G5xx0tK/nurse.jpg',
+      "image": "https://i.ibb.co/G5xx0tK/nurse.jpg",
 
-      title: 'Nursing Center',
+      "title": "Nursing Center",
 
-      info:
+      "info":
 
-        ' Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et exducimus facilis dolor. Adipisci dignissimos iste, esse tempore.',
-
-    },
-
-    {
-
-      id: '2',
-
-      image: 'https://i.ibb.co/7NgDhwy/critical.jpg',
-
-      title: 'Critical Care',
-
-      info:
-
-        ' Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et exducimus facilis dolor. Adipisci dignissimos iste, esse tempore.',
+        " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et exducimus facilis dolor. Adipisci dignissimos iste, esse tempore.",
 
     },
 
     {
 
-      id: '3',
+      "id": "2",
 
-      image: 'https://i.ibb.co/b3BsCdV/careadvise.jpg',
+      "image": "https://i.ibb.co/7NgDhwy/critical.jpg",
 
-      title: 'Doctors Advice',
+      "title": "Critical Care",
 
-      info:
+      "info":
 
-        ' Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et exducimus facilis dolor. Adipisci dignissimos iste, esse tempore.',
-
-    },
-
-    {
-
-      id: '4',
-
-      image: 'https://i.ibb.co/kmQNqkQ/lab.jpg',
-
-      title: 'Laboratory',
-
-      info:
-
-        ' Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et exducimus facilis dolor. Adipisci dignissimos iste, esse tempore.',
+        " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et exducimus facilis dolor. Adipisci dignissimos iste, esse tempore.",
 
     },
 
     {
 
-      id: '5',
+      "id": "3",
 
-      image: 'https://i.ibb.co/F5CqGXV/hsergery.jpg',
+      "image": "https://i.ibb.co/b3BsCdV/careadvise.jpg",
 
-      title: 'Heart Surgery',
+      "title": "Doctors Advice",
 
-      info:
+      "info":
 
-        ' Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et exducimus facilis dolor. Adipisci dignissimos iste, esse tempore.',
+        " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et exducimus facilis dolor. Adipisci dignissimos iste, esse tempore.",
 
     },
 
     {
 
-      id: '6',
+      "id": "4",
 
-      image: 'https://i.ibb.co/WpB8mBS/emergency.jpg
-',
+      "image": "https://i.ibb.co/kmQNqkQ/lab.jpg",
 
-      title: 'Emergency',
+      "title": "Laboratory",
 
-      info:
+      "info":
 
-        ' Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et exducimus facilis dolor. Adipisci dignissimos iste, esse tempore.',
+        " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et exducimus facilis dolor. Adipisci dignissimos iste, esse tempore.",
+
+    },
+
+    {
+
+      "id": "5",
+
+      "image": "https://i.ibb.co/F5CqGXV/hsergery.jpg",
+
+      "title": "Heart Surgery",
+
+      "info":
+
+        " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et exducimus facilis dolor. Adipisci dignissimos iste, esse tempore.",
+
+    },
+
+    {
+
+      "id": "6",
+
+      "image": "https://i.ibb.co/WpB8mBS/emergency.jpg
+",
+
+      "title": "Emergency",
+
+      "info":
+
+        " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et exducimus facilis dolor. Adipisci dignissimos iste, esse tempore.",
 
     },
 

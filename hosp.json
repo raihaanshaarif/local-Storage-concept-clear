@@ -2,7 +2,7 @@
 
     {
 
-      "id": "1",
+      "id": 1,
 
       "image": "https://i.ibb.co/G5xx0tK/nurse.jpg",
 
@@ -16,7 +16,7 @@
 
     {
 
-      "id": "2",
+      "id": 2,
 
       "image": "https://i.ibb.co/7NgDhwy/critical.jpg",
 
@@ -30,7 +30,7 @@
 
     {
 
-      "id": "3",
+      "id": 3,
 
       "image": "https://i.ibb.co/b3BsCdV/careadvise.jpg",
 
@@ -44,7 +44,7 @@
 
     {
 
-      "id": "4",
+      "id": 4,
 
       "image": "https://i.ibb.co/kmQNqkQ/lab.jpg",
 
@@ -58,7 +58,7 @@
 
     {
 
-      "id": "5",
+      "id": 5,
 
       "image": "https://i.ibb.co/F5CqGXV/hsergery.jpg",
 
@@ -72,7 +72,7 @@
 
     {
 
-      "id": "6",
+      "id": 6,
 
       "image": "https://i.ibb.co/WpB8mBS/emergency.jpg
 ",
